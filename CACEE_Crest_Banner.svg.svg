@@ -1,0 +1,60 @@
+<svg width="1200" height="400" viewBox="0 0 1200 400" fill="none" xmlns="http://www.w3.org/2000/svg">
+  
+  <rect width="1200" height="400" fill="#050505"/>
+  
+  <defs>
+    <pattern id="cacee-grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M 40 0 L 0 0 0 40" fill="none" stroke="#111111" stroke-width="1"/>
+    </pattern>
+  </defs>
+  <rect width="1200" height="400" fill="url(#cacee-grid)"/>
+
+  <rect x="0" y="0" width="1200" height="6" fill="#FFBF00"/>
+
+  <text x="60" y="90" fill="#FDFDFD" font-family="'JetBrains Mono', monospace, sans-serif" font-size="44" font-weight="bold" letter-spacing="2">CACEE ECOSYSTEM</text>
+  <text x="65" y="140" fill="#FFBF00" font-family="'JetBrains Mono', monospace, sans-serif" font-size="28" font-weight="bold" letter-spacing="6">OPERATIONAL MANUAL</text>
+  <text x="65" y="180" fill="#888888" font-family="'JetBrains Mono', monospace, sans-serif" font-size="16" font-weight="bold" letter-spacing="1">&amp; PRODUCT ECOSYSTEM GUIDE</text>
+  
+  <text x="65" y="250" fill="#555555" font-family="'JetBrains Mono', monospace, sans-serif" font-size="12" letter-spacing="1">MANDATE: OPERATIONALIZE INTELLIGENCE (SIMULATION)</text>
+  <text x="65" y="270" fill="#555555" font-family="'JetBrains Mono', monospace, sans-serif" font-size="12" letter-spacing="1">SUPPLY CHAIN: RAW DATA -> INT -> MARKETING -> ED</text>
+  <text x="65" y="290" fill="#555555" font-family="'JetBrains Mono', monospace, sans-serif" font-size="12" letter-spacing="1">STACK: GCP // CLOUD WORKSTATIONS // NOTEBOOKLM</text>
+
+  <circle cx="950" cy="200" r="40" fill="#0A0A0A" stroke="#FDFDFD" stroke-width="2"/>
+  <text x="950" y="204" fill="#FDFDFD" font-family="'JetBrains Mono', monospace, sans-serif" font-size="10" font-weight="bold" text-anchor="middle">SSoT HUB</text>
+  
+  <g transform="translate(750, 80)">
+    <rect x="0" y="0" width="160" height="50" fill="#0A0A0A" stroke="#333333" stroke-width="1.5"/>
+    <text x="80" y="22" fill="#FDFDFD" font-family="'JetBrains Mono', monospace, sans-serif" font-size="11" font-weight="bold" text-anchor="middle">T1: ED ACADEMY</text>
+    <text x="80" y="36" fill="#888888" font-family="'JetBrains Mono', monospace, sans-serif" font-size="9" text-anchor="middle">Cloud Workstation Labs</text>
+    <circle cx="10" cy="25" r="3" fill="#FFBF00"/>
+  </g>
+
+  <g transform="translate(970, 80)">
+    <rect x="0" y="0" width="160" height="50" fill="#0A0A0A" stroke="#333333" stroke-width="1.5"/>
+    <text x="80" y="22" fill="#FDFDFD" font-family="'JetBrains Mono', monospace, sans-serif" font-size="11" font-weight="bold" text-anchor="middle">T2: TTX CONSULTING</text>
+    <text x="80" y="36" fill="#888888" font-family="'JetBrains Mono', monospace, sans-serif" font-size="9" text-anchor="middle">NotebookLM White Cell</text>
+    <circle cx="10" cy="25" r="3" fill="#FFBF00"/>
+  </g>
+  
+  <g transform="translate(860, 310)">
+    <rect x="0" y="0" width="180" height="50" fill="#0A0A0A" stroke="#FFBF00" stroke-width="2"/>
+    <text x="90" y="22" fill="#FFBF00" font-family="'JetBrains Mono', monospace, sans-serif" font-size="11" font-weight="bold" text-anchor="middle">T3: ISAO NODE</text>
+    <text x="90" y="36" fill="#888888" font-family="'JetBrains Mono', monospace, sans-serif" font-size="9" text-anchor="middle">Federated CTI (Trusted Truth)</text>
+  </g>
+  
+  <path d="M 830 130 L 910 180" stroke="#888888" stroke-width="1.5" stroke-dasharray="4 4" marker-end="url(#cacee-arrow)"/>
+  <text x="860" y="155" fill="#555555" font-family="'JetBrains Mono', monospace, sans-serif" font-size="8" transform="rotate(32 860 155)">Telemetry</text>
+
+  <path d="M 970 160 L 1030 130" stroke="#FDFDFD" stroke-width="1.5" marker-end="url(#cacee-arrow)"/>
+  
+  <path d="M 970 105 L 910 105" stroke="#FFBF00" stroke-width="2" marker-end="url(#cacee-arrow)"/>
+  <text x="940" y="100" fill="#FFBF00" font-family="'JetBrains Mono', monospace, sans-serif" font-size="8" text-anchor="middle">Update Loop</text>
+
+  <path d="M 950 240 L 950 310" stroke="#FFBF00" stroke-width="2" marker-end="url(#cacee-arrow)"/>
+
+  <defs>
+    <marker id="cacee-arrow" markerWidth="6" markerHeight="6" refX="0" refY="3" orient="auto">
+      <polygon points="0 0, 6 3, 0 6" fill="context-stroke" />
+    </marker>
+  </defs>
+</svg>
